@@ -1,1 +1,2 @@
 Ejemplo de un archivo de texto en github
+mi_repositorio = https://github.com/miusuario/test_github
