@@ -1,2 +1,1 @@
 Ejemplo de un archivo de texto en github
-mi_repositorio = https://github.com/Priyaskd108/test_github
